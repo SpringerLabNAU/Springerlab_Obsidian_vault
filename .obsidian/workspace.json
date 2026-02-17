@@ -1,70 +1,41 @@
 {
   "main": {
-    "id": "98e1010b4667de8f",
+    "id": "de1d36af7876e3ea",
     "type": "split",
     "children": [
       {
-        "id": "5f10d4b4c0800df4",
+        "id": "83c7ca0cd415150c",
         "type": "tabs",
         "children": [
           {
-            "id": "8b84a8b6de2875e9",
+            "id": "f9822eaf814666f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ryan's Note.md",
+                "file": "Abe note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ryan's Note"
-            }
-          },
-          {
-            "id": "c488a026d34ffcb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Caelum's note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Caelum's note"
-            }
-          },
-          {
-            "id": "6564f7861567430f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abe another note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abe another note"
+              "title": "Abe note"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "007c6b1553a8fc60",
+    "id": "e9e43d00af7f0a67",
     "type": "split",
     "children": [
       {
-        "id": "0c9b53f4de96baa5",
+        "id": "85a6b160bda2beea",
         "type": "tabs",
         "children": [
           {
-            "id": "2a78c7e62376687a",
+            "id": "2b1ac67086c3db9b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +48,7 @@
             }
           },
           {
-            "id": "c7efd104ca905fd9",
+            "id": "51b7da57aa3dbc50",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +65,7 @@
             }
           },
           {
-            "id": "27cee90de73f4ecd",
+            "id": "98e1d819a333071e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "9df06a9922ae3d1d",
+    "id": "d81ccc70cc24e24f",
     "type": "split",
     "children": [
       {
-        "id": "4336007a2b3f3f32",
+        "id": "74ba2459c220883e",
         "type": "tabs",
         "children": [
           {
-            "id": "109b64a77fb96d89",
+            "id": "177b1319f534c4d4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ryan's Note.md",
+                "file": "Abe note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ryan's Note"
+              "title": "Backlinks for Abe note"
             }
           },
           {
-            "id": "9296e1c48764c664",
+            "id": "e06b4a61bbf67537",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ryan's Note.md",
+                "file": "Abe note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ryan's Note"
+              "title": "Outgoing links from Abe note"
             }
           },
           {
-            "id": "e660b61fe9cd2c6a",
+            "id": "80be84b61f75f4a5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,7 +137,7 @@
             }
           },
           {
-            "id": "0db7a45a14365063",
+            "id": "c9875543fb6232d0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -180,18 +151,18 @@
             }
           },
           {
-            "id": "917ebf6427ba5284",
+            "id": "e27b7cd8a977df93",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ryan's Note.md",
+                "file": "Abe note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ryan's Note"
+              "title": "Outline of Abe note"
             }
           }
         ]
@@ -212,11 +183,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "6564f7861567430f",
+  "active": "f9822eaf814666f0",
   "lastOpenFiles": [
-    "Abe another note.md",
-    "Caelum's note.md",
-    "Liam's note.md",
-    "Ryan's Note.md"
+    "Abe note.md"
   ]
 }
