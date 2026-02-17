@@ -200,8 +200,13 @@
   },
   "active": "c488a026d34ffcb0",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Liam's note.md",
     "Caelum's note.md",
+=======
+    "Caelum's note.md",
+    "Liam's note.md",
+>>>>>>> Stashed changes
     "Ryan's Note.md"
   ]
 }
