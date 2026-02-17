@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caelum's note.md",
+                "file": "Ryan's Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caelum's note"
+              "title": "Ryan's Note"
             }
           }
         ],
@@ -200,8 +200,8 @@
   },
   "active": "c488a026d34ffcb0",
   "lastOpenFiles": [
-    "Ryan's Note.md",
     "Liam's note.md",
-    "Caelum's note.md"
+    "Caelum's note.md",
+    "Ryan's Note.md"
   ]
 }
